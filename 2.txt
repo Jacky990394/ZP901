@@ -5,3 +5,5 @@ Hello I’m number 2
 Good Day
 Morning
 I have a issue on upload my App. 
+
+這是一個新功能，我從 addbutton 這個分支上開發的。
